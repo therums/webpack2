@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # webpack-start
 Introduction to Webpack tutorial
 
@@ -126,3 +127,7 @@ The loaders section defines an array of loaders to apply when the filename match
 22. In the terminal, run `webpack-dev-server --inline --hot`. This will start a web server on port 8080. The `--inline` flag tells Webpack to inline the hot reload client in the bundle, and the `--hot` flag enabled hot reloading.
 23. Close the browser window you've been using, and instead navigate to `http://localhost:8080`. You should see the same content that we've already been working with.
 24. Make some changes to the the stylesheet, to the text in `entry.js`, or any other changes. As soon as you save any of these files, notice how Webpack Dev Server re-builds the bundle and pushes the changes to the browser. Very nice!
+=======
+# webpack2
+trying to learn webpack
+>>>>>>> 1c5fd3a0f678a4a266952337025101bc50751ef9
