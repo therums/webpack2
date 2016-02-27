@@ -1,2 +1,2 @@
-# webpact2
+# webpack2
 trying to learn webpack
